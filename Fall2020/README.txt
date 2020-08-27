@@ -1,3 +1,5 @@
+Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvrnLssdPkp
+
 This is the Fall 2020 version of my ML Class
 
 Syllabus (tentative)
