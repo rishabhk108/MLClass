@@ -10,12 +10,12 @@ Kernels
 SVM and Slack
 Decision Trees
 KNN Classification
+Naive Bayes
+Logistic Regression
 Learning Theory and VC Dimensions
 Ensembles and Boosting
 Clustering
 PCA
-Naive Bayes
-Logistic Regression
 Gaussian Mixture Models
 Hidden Markov Models
 Neural Networks
