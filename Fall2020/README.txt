@@ -13,15 +13,15 @@ KNN Classification
 Naive Bayes
 Logistic Regression
 Learning Theory and VC Dimensions
-Ensembles and Boosting
+Bias and Variance Tradeoff
+Ensembles, Boosting and Bagging
 Clustering
 PCA
 Gaussian Mixture Models
 Hidden Markov Models
 Neural Networks
-Active Learning and Semi-Supervised Learning
-Reinforcement Learning
-Summary of some advanced topics
+Evaluation of ML Algorithms and Practical Aspects
+Survey of Optimization Algorithms
 
 Textbooks:
 1) Pattern Recognition and Machine Learning, Christopher Bishop 2006
