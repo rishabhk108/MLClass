@@ -18,7 +18,6 @@ Ensembles, Boosting and Bagging
 Clustering
 PCA
 Gaussian Mixture Models
-Hidden Markov Models
 Neural Networks
 Evaluation of ML Algorithms and Practical Aspects
 Survey of Optimization Algorithms
