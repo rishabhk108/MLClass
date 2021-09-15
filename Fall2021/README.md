@@ -42,5 +42,4 @@ Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvr
 4) SVMs and Slack: Bishop Ch 7.1, 
 5) Nearest Neighbor Methods: Bishop Ch 2.5.2, https://towardsdatascience.com/a-simple-introduction-to-k-nearest-neighbors-algorithm-b3519ed98e
 6) Decision trees: Bishop, Ch 14.4,  Mitchel Ch 3 (https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf), Nicholas Rouzzi's notes (https://personal.utdallas.edu/~nrr150130/gmbook/prob_basics.html)
-7) 
 
