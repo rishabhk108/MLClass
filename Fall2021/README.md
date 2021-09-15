@@ -7,8 +7,8 @@ Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvr
 - Support Vector Machines
 - Kernels
 - SVM and Slack
+- Nearest Neighbor Methods
 - Decision Trees
-- KNN Classification
 - Naive Bayes
 - Logistic Regression
 - Learning Theory and VC Dimensions
@@ -31,4 +31,16 @@ Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvr
     - https://www.amazon.com/dp/0387848576?
 3) Machine Learning, Tom Mitchell
     - https://www.amazon.com/dp/0070428077?
+4) Bayesian Reasoning and Machine Learning by David Barber (http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
+5) Boyd for Convex Optimization parts (e.g., Duality, Gradient Descent, etc.): https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+6) Andrew Ng's Lecture Notes: http://cs229.stanford.edu/notes2020spring/cs229-notes1.pdf
+
+## Additional Reading Materials
+1) Introduction and Regression: Bishop, Ch. 1 and Sections 1 & 2 of Andrew Ng's Lecture notes
+2) Perceptron: Bishop, Ch. 7 for a different perspective, Barber, Ch. 17.5
+3) SVMs, Duality: Boyd, Ch 5
+4) SVMs and Slack: Bishop Ch 7.1, 
+5) Nearest Neighbor Methods: Bishop Ch 2.5.2, https://towardsdatascience.com/a-simple-introduction-to-k-nearest-neighbors-algorithm-b3519ed98e
+6) Decision trees: Bishop, Ch 14.4,  Mitchel Ch 3 (https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf), Nicholas Rouzzi's notes (https://personal.utdallas.edu/~nrr150130/gmbook/prob_basics.html)
+7) 
 
