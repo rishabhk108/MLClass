@@ -49,4 +49,5 @@ Marked Lecture Slides for Fall 2021: https://drive.google.com/drive/folders/1pvh
 6) Decision trees: Bishop, Ch 14.4,  Mitchel Ch 3 (https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf), Nicholas Rouzzi's notes (https://personal.utdallas.edu/~nrr150130/gmbook/prob_basics.html)
 7) Bayesian Methods: Bishop, Ch 2.1 - 2.4, Ch 4.2
 8) Naive Bayes: Ch 4.2.3, 8.2.2, http://www.cs.cmu.edu/~guestrin/Class/10701-S06/Slides/naivebayes-logisticregression.pdf
+9) Logistic Regression: Ch. 4.3, 4.5, https://joparga3.github.io/standford_logistic_regression/
 
