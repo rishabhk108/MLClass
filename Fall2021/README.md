@@ -43,7 +43,7 @@ Marked Lecture Slides for Fall 2021: https://drive.google.com/drive/folders/1pvh
 ## Additional Reading Materials
 1) Introduction and Regression: Bishop, Ch. 1 and Sections 1 & 2 of Andrew Ng's Lecture notes
 2) Perceptron: Bishop, Ch. 7 for a different perspective, Barber, Ch. 17.5
-3) SVMs, Duality: Boyd, Ch 5
+3) SVMs, Duality: Boyd, Ch 5, https://web.archive.org/web/20210126032916/http://www.engr.mun.ca/~baxter/Publications/LagrangeForSVMs.pdf
 4) SVMs and Slack: Bishop Ch 7.1, 
 5) Nearest Neighbor Methods: Bishop Ch 2.5.2, https://towardsdatascience.com/a-simple-introduction-to-k-nearest-neighbors-algorithm-b3519ed98e
 6) Decision trees: Bishop, Ch 14.4,  Mitchel Ch 3 (https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf), Nicholas Rouzzi's notes (https://personal.utdallas.edu/~nrr150130/gmbook/prob_basics.html)
