@@ -24,8 +24,6 @@ Marked Lecture Slides for Fall 2021: https://drive.google.com/drive/folders/1pvh
 - Gaussian Mixture Models
 - Neural Networks
 - Evaluation of ML Algorithms and Practical Aspects
-- Optimization Algorithms
-- Survey of some Advanced topics: semi-supervised learning, active learning, self-supervised learning, etc.
 
 ## Textbooks:
 1) Pattern Recognition and Machine Learning, Christopher Bishop 2006
