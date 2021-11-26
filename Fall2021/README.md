@@ -20,7 +20,6 @@ Marked Lecture Slides for Fall 2021: https://drive.google.com/drive/folders/1pvh
 - Bias and Variance Tradeoff
 - Ensembles, Boosting and Bagging
 - Clustering
-- PCA
 - Gaussian Mixture Models
 - Neural Networks
 - Evaluation of ML Algorithms and Practical Aspects
