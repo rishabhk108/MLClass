@@ -53,4 +53,5 @@ Marked Lecture Slides for Fall 2021: https://drive.google.com/drive/folders/1pvh
 10) Clustering: Bishop: Ch 9.1, https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
 11) VC Dimension and Learning Theory: https://www.cs.princeton.edu/~rlivni/cos511/lectures/lect1.pdf, cs.utexas.edu/~klivans/f06lec2.pdf, https://www.cse.wustl.edu/~bjuba/cse513t/f16/notes/l10.pdf, https://towardsdatascience.com/measuring-the-power-of-a-classifier-c765a7446c1c, https://www.cs.cmu.edu/~epxing/Class/10701/slides/lecture16-VC.pdf
 12) Bias/Variance Tradeoff, Boosting and Bagging: Hastie et al: Ch. 14.3.6, 14.3.8, 14.3.9, 14.3.12 and Hastie et al Ch. 8.7 & Ch. 15. Also https://cseweb.ucsd.edu//~yfreund/papers/IntroToBoosting.pdf.
+13) EM Algorithm and Gaussian Mixture Models: https://f.hubspotusercontent40.net/hubfs/8111846/Unicon_October2020/pdf/bilmes-em-algorithm.pdf
 
