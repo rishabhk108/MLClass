@@ -11,7 +11,7 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Final Project (30%)
 
 ## Syllabus
-- Intreoduction and About ML
+- Introduction and About ML
 - Regression (Linear and Polynomial)
 - Perceptron
 - Support Vector Machines
