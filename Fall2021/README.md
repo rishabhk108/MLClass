@@ -3,9 +3,6 @@
 ## Video Playlist
 Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvrnLssdPkp
 
-## Lecture Slides
-Marked Lecture Slides for Fall 2021: https://drive.google.com/drive/folders/1pvhJGM5OZMwlBzZNKpfQTwbB6EE7RUza?usp=sharing
-
 ## Syllabus (tentative)
 - Regression (Linear and Polynomial)
 - Perceptron
