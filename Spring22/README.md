@@ -6,9 +6,8 @@ Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvr
 These are video recordings uploaded to youtube from my previous graduate version of this course. The course content will be very similar so I would strongly encourage all of you to go through the videos both before and after each course.
 
 ## Course Evaluation
-- 4 Assignments (50%)
-- 1 Midterm (20%)
-- Final Project (30%)
+- 4 Assignments (60%)
+- Final Project (40%)
 
 ## Syllabus
 - Introduction and About ML
