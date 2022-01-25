@@ -17,8 +17,6 @@ I will be placing the annotated course slides on this link: https://drive.google
 - Regression (Linear and Polynomial)
 - Perceptron
 - Support Vector Machines
-- SVM Kernels
-- SVM and Slack
 - Nearest Neighbor Methods
 - Decision Trees
 - Naive Bayes
@@ -44,4 +42,6 @@ https://www.amazon.com/dp/0070428077?
 - Boyd for Convex Optimization parts (e.g., Duality, Gradient Descent, etc.): https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 - Andrew Ng's Lecture Notes: http://cs229.stanford.edu/notes2020spring/cs229-notes1.pdf
 
-
+## Additional Reading Material
+- Introduction and Regression: Bishop, Ch. 1 and Sections 1 & 2 of Andrew Ng's Lecture notes
+- Perceptron: Bishop, Ch. 7 for a different perspective, Barber, Ch. 17.5
