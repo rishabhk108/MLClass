@@ -9,6 +9,10 @@ These are video recordings uploaded to youtube from my previous graduate version
 - 4 Assignments (60%)
 - Final Project (40%)
 
+## Office Hours
+Tuesday 11:30 am -  12:30 pm  (my office: ECSS 3.405) 
+Thursday 11:30 am - 12:30 pm (by appointment)
+
 ## Course Lecture Slides
 I will be placing the annotated course slides on this link: https://drive.google.com/drive/folders/1aZvBgWJotFDyj3mGFvP78lLmxezspOWs?usp=sharing
 
