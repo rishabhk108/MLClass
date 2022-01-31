@@ -3,7 +3,7 @@ This repository will contain my ML Class slides, assignments and python hands-on
 Offerings of the Course
 * [Fall 2020](https://github.com/rishabhk108/MLClass/tree/master/Fall2020)
 * [Fall 2021](https://github.com/rishabhk108/MLClass/tree/master/Fall2021)
-* [Spring 2022](https://github.com/rishabhk108/MLClass/tree/master/Spring2022)
+* [Spring 2022](https://github.com/rishabhk108/MLClass/tree/master/Spring22)
 
 
 Instructor: Prof. Rishabh Iyer  
