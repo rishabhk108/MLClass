@@ -1,4 +1,4 @@
-# Fall 2022: Introduction to Machine Learning (Graduate Version)
+# Fall 2022: CS 6375 Machine Learning (Graduate Version)
 
 ## Course Videos
 Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvrnLssdPkp
