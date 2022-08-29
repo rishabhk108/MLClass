@@ -17,6 +17,9 @@ These are video recordings uploaded to youtube from my previous graduate version
 ## Course Lecture Slides
 I will be placing the annotated course slides on this link: TBA soon
 
+## Demos: Google Colab Links
+- Linear Regression (Housing Demo): https://colab.research.google.com/drive/1myH2V4xbKXZzdF-49ma_vWHLfArTyO2W
+- Polynomial Regression (Overfitting & Underfitting): https://colab.research.google.com/drive/1ynzXK32eLqpPdh6l7IOqW7ajnCkXKhwH
 ## Syllabus
 - Introduction and About ML
 - Regression (Linear and Polynomial)
