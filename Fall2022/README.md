@@ -17,11 +17,13 @@ These are video recordings uploaded to youtube from my previous graduate version
 ## Course Lecture Slides
 I will be placing the annotated course slides on this link: TBA soon
 
-## Demos: Google Colab Links
+## Demos: Google Colab Links and Other Links
 - Linear Regression (Housing Demo): https://colab.research.google.com/drive/1myH2V4xbKXZzdF-49ma_vWHLfArTyO2W
 - Polynomial Regression (Overfitting & Underfitting): https://colab.research.google.com/drive/1ynzXK32eLqpPdh6l7IOqW7ajnCkXKhwH
 - Perceptrons: https://colab.research.google.com/drive/1eNG_bEj_gfq1yzjBaJlRA8D-Bdt-zhjR
 - SVMs: https://colab.research.google.com/drive/1z368aCHvKDy92E0dJXtQnTFgF3O1HOWo
+- Interactive SVM Demo: https://jgreitemann.github.io/svm-demo
+
 ## Syllabus
 - Introduction and About ML
 - Regression (Linear and Polynomial)
