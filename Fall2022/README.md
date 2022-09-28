@@ -11,8 +11,8 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Final Project (25%)
 
 ## Office Hours
-- Tuesday 2:45 pm -  3:45 pm  (my office: ECSS 3.405) 
-- Thursday 5:30 pm - 6:30 pm (by appointment)
+- Monday 3 pm -  3:50 pm  (my office: ECSS 3.405) 
+- Wednesday 3 pm - 3:50 pm (by appointment)
 
 ## Course Lecture Slides
 I will be placing the annotated course slides on this link: TBA soon
