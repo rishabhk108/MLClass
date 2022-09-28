@@ -15,7 +15,7 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Wednesday 3 pm - 3:50 pm (by appointment)
 
 ## Course Lecture Slides
-I will be placing the annotated course slides on this link: TBA soon
+I will be placing the annotated course slides on this github repo
 
 ## Demos: Google Colab Links and Other Links
 - Linear Regression (Housing Demo): https://colab.research.google.com/drive/1myH2V4xbKXZzdF-49ma_vWHLfArTyO2W
