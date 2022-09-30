@@ -62,7 +62,7 @@ https://www.amazon.com/dp/0070428077?
 - SVMs, Duality: Boyd, Ch 5, https://web.archive.org/web/20210126032916/http://www.engr.mun.ca/~baxter/Publications/LagrangeForSVMs.pdf
 - SVMs and Slack: Bishop Ch 7.1,
 - Nearest Neighbor Methods: Bishop Ch 2.5.2, https://towardsdatascience.com/a-simple-introduction-to-k-nearest-neighbors-algorithm-b3519ed98e
-- Decision trees: Bishop, Ch 14.4, Mitchel Ch 3 (https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf), Nicholas Rouzzi's notes (https://personal.utdallas.edu/~nrr150130/gmbook/prob_basics.html)
+- Decision trees: Bishop, Ch 14.4, Mitchel Ch 3 (https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf), Nicholas Rouzzi's notes (https://personal.utdallas.edu/~nrr150130/gmbook/prob_basics.html), (https://scikit-learn.org/stable/modules/tree.html#tree-mathematical-formulation)
 - Bayesian Methods: Bishop, Ch 2.1 - 2.4, Ch 4.2
 - Naive Bayes: Ch 4.2.3, 8.2.2, http://www.cs.cmu.edu/~guestrin/Class/10701-S06/Slides/naivebayes-logisticregression.pdf
 - Logistic Regression: Ch. 4.3, 4.5, Sec. 5 in Andrew Ng's notes, https://joparga3.github.io/standford_logistic_regression/
