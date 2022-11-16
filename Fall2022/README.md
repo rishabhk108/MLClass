@@ -6,7 +6,7 @@ Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvr
 These are video recordings uploaded to youtube from my previous graduate version of this course. The course content will be very similar so I would strongly encourage all of you to go through the videos both before and after each course.
 
 ## Course Evaluation
-- 4 Assignments (50%)
+- 3 Assignments (50%)
 - Mid Term Examination (25%)
 - Final Project (25%)
 
