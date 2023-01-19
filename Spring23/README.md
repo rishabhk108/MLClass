@@ -10,9 +10,13 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Mid Term Examination (25%)
 - Final Project (25%)
 
+## Class Timings
+- Tuesday 1 pm -  2:15 pm   
+- Thursdays 1 pm - 2:15 pm 
+
 ## Office Hours
-- Monday 3 pm -  3:50 pm  (my office: ECSS 3.405) 
-- Wednesday 3 pm - 3:50 pm (by appointment)
+- Tuesday 230 pm -  3:30 pm  (my office: ECSS 3.405) 
+- Thursday 230 pm - 3:30 pm (by appointment)
 
 ## Course Lecture Slides
 I will be placing the annotated course slides on this github repo
