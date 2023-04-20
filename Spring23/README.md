@@ -21,6 +21,10 @@ These are video recordings uploaded to youtube from my previous graduate version
 ## Course Lecture Slides
 I will be placing the annotated course slides on this github repo
 
+## Project Presentations
+On May 2nd and May 4th, all the students will be presenting their projects in the class. Each student will have 4 minutes to present the project. The order of the students presenting is here: https://docs.google.com/spreadsheets/d/1fxV37Mkikjb1fIkC7QNRaoPzEsSj0kqDhWft7YJclk0/edit#gid=0
+
+
 ## Demos: Google Colab Links and Other Links
 - Linear Regression (Housing Demo): https://colab.research.google.com/drive/1myH2V4xbKXZzdF-49ma_vWHLfArTyO2W
 - Polynomial Regression (Overfitting & Underfitting): https://colab.research.google.com/drive/1ynzXK32eLqpPdh6l7IOqW7ajnCkXKhwH
