@@ -21,6 +21,12 @@ These are video recordings uploaded to youtube from my previous graduate version
 ## Course Lecture Slides
 I will be placing the annotated course slides on this github repo
 
+# Mid-Term Examination
+The Mid-term exam will be held on October 30th 2023. It will be during class from 4pm to 5:15 pm. 
+
+# Final Projects
+Each of you will present the final project in front of the entire class. You will have 5 mins to present your slides (4 mins for your talk and 1 min Q&A). The project presentations will be on November 27th, 29th, and December 4th 2023. 
+
 ## Project Presentations
 During the last two weeks of the semester, all the students will be presenting their projects in the class. Each student will have 4 minutes to present the project. More details to be announced here soon!
 
