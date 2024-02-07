@@ -5,6 +5,10 @@ Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvr
 
 These are video recordings uploaded to youtube from my previous graduate version of this course. The course content will be very similar so I would strongly encourage all of you to go through the videos both before and after each course.
 
+## Teaching Assistants
+Anay Majee -  anay.majee@utdallas.edu (Office Hours: Thursday 5:15 pm to 6:15 pm at ECSS 3.413)
+Yuzhe Ou - yuzhe.ou@utdallas.edu (Office Hours: Tuesday 11 am to 12 am at ECSS 2.704 A1)
+
 ## Course Evaluation
 - 4 Assignments (50%)
 - Mid Term Examination (25%)
@@ -19,13 +23,13 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Thursdays 3 pm - 3:45 pm (by appointment)
 
 ## Course Lecture Slides
-I will be placing the annotated course slides on this github repo
+I will be placing the annotated course slides on this GitHub repo
 
 ## Mid-Term Examination
 The Mid-term exam TBA 
 
 ## Project Presentations
-During the last two weeks of the semester, all the students will be presenting their projects in the class. Each student will have 5 minutes to present the project.  More details to come soon.
+During the last two weeks of the semester, all the students will be presenting their projects in class. Each student will have 5 minutes to present the project.  More details to come soon.
 
 ## Demos: Google Colab Links and Other Links
 - Linear Regression (Housing Demo): https://colab.research.google.com/drive/1myH2V4xbKXZzdF-49ma_vWHLfArTyO2W
