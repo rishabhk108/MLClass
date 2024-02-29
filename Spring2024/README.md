@@ -26,7 +26,7 @@ These are video recordings uploaded to youtube from my previous graduate version
 I will be placing the annotated course slides on this GitHub repo
 
 ## Mid-Term Examination
-The Mid-term exam TBA 
+The Mid-term exam will take place on March 28th 2024. It will be an online examination.  
 
 ## Project Presentations
 During the last two weeks of the semester, all the students will be presenting their projects in class. Each student will have 5 minutes to present the project.  More details to come soon.
