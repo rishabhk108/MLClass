@@ -40,6 +40,7 @@ During the last two weeks of the semester, all the students will be presenting t
 - Decision Trees: https://colab.research.google.com/drive/1RKC12-hsxRx7GqogkQjN0ylqFy6ay2As#scrollTo=8c5bbca1
 - Nearest Neighbor: https://colab.research.google.com/drive/1coQx_fGMyiOhli6xjETUaXfy3AX1PqWX#scrollTo=8fb86b64
 - Bayesian Methods and MLE: https://colab.research.google.com/drive/1XyHOV5BwCI_mUukXwsNmquDkfsqruRv9#scrollTo=v0C-u9pR3djd
+- Naive Bayes for Spam Classification: https://colab.research.google.com/drive/1SgWrVeRo_HUNdNR3XQQreOnJHL2rHgBb?usp=sharing
 
 ## Syllabus
 - Introduction and About ML
