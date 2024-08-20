@@ -15,8 +15,8 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Wednesdays 4 pm - 4:15 pm 
 
 ## Office Hours
-- Monday 3 pm -  3:45 pm  (my office: ECSS 3.405) 
-- Wednesday 3 pm - 3:45 pm (by appointment)
+- Monday 530 pm -  630 pm  (my office: ECSS 3.405) 
+- Wednesday 530 pm - 630 pm (by appointment)
 
 ## Course Lecture Slides
 I will be placing the annotated course slides on this github repo
