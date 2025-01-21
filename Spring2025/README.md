@@ -19,8 +19,7 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Thursdays 3 pm - 3:45 pm (by appointment)
 
 ## Teaching Assistants
-- Anay Majee -  anay.majee@utdallas.edu (Office Hours: Thursday 5:15 pm to 6:15 pm at ECSS 3.413)
-- Yuzhe Ou - yuzhe.ou@utdallas.edu (Office Hours: Tuesday 11 am to 12 am at ECSS 2.704 A1)
+TBD
 
 ## Course Lecture Slides
 I will be placing the annotated course slides on this GitHub repo
