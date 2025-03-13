@@ -40,6 +40,9 @@ During the last two weeks of the semester, all the students will be presenting t
 - Nearest Neighbor: https://colab.research.google.com/drive/1coQx_fGMyiOhli6xjETUaXfy3AX1PqWX#scrollTo=8fb86b64
 - Bayesian Methods and MLE: https://colab.research.google.com/drive/1XyHOV5BwCI_mUukXwsNmquDkfsqruRv9#scrollTo=v0C-u9pR3djd
 - Naive Bayes for Spam Classification: https://colab.research.google.com/drive/1SgWrVeRo_HUNdNR3XQQreOnJHL2rHgBb?usp=sharing
+- Logistic Regression (Base Demo): https://colab.research.google.com/drive/16Bvri6xbh_UfPtEKpb3yzgUyrJY2RhrR#scrollTo=8oU0zpW1MT4z
+- L1 vs L2 Regularization & Sparsity in Logistic Regression: https://colab.research.google.com/drive/15PQNOkje8U7O-b4RPiYVUyc3MP-1aMQS#scrollTo=EW2-rU3_O1p0
+- Hyper-Parameter Tuning with Logistic Regression: https://colab.research.google.com/drive/1QOzFcYUrCbvtze7hTevbdwz1Jv5MdCHF#scrollTo=ruRnDqaZNM9l
 
 ## Syllabus
 - Introduction and About ML
