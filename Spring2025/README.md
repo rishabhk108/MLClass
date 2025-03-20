@@ -25,7 +25,7 @@ Truong Pham
 I will be placing the annotated course slides on this GitHub repo
 
 ## Mid-Term Examination
-The Mid-term exam will take place on TBD.  
+The Midterm Examination will be on April 1st during Class Hours. 
 
 ## Project Presentations
 During the last two weeks of the semester, all the students will be presenting their projects in class. Each student will have 5 minutes to present the project.  More details to come soon.
