@@ -19,7 +19,7 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Thursdays 3 pm - 3:45 pm (by appointment)
 
 ## Teaching Assistants
-TBD
+Truong Pham
 
 ## Course Lecture Slides
 I will be placing the annotated course slides on this GitHub repo
@@ -29,6 +29,9 @@ The Mid-term exam will take place on TBD.
 
 ## Project Presentations
 During the last two weeks of the semester, all the students will be presenting their projects in class. Each student will have 5 minutes to present the project.  More details to come soon.
+
+## Blog Posts for Additional Reading
+https://mldemystified.com/
 
 ## Demos: Google Colab Links and Other Links
 - Linear Regression (Housing Demo): https://colab.research.google.com/drive/1myH2V4xbKXZzdF-49ma_vWHLfArTyO2W
