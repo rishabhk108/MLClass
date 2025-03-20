@@ -43,6 +43,8 @@ During the last two weeks of the semester, all the students will be presenting t
 - Logistic Regression (Base Demo): https://colab.research.google.com/drive/16Bvri6xbh_UfPtEKpb3yzgUyrJY2RhrR#scrollTo=8oU0zpW1MT4z
 - L1 vs L2 Regularization & Sparsity in Logistic Regression: https://colab.research.google.com/drive/15PQNOkje8U7O-b4RPiYVUyc3MP-1aMQS#scrollTo=EW2-rU3_O1p0
 - Hyper-Parameter Tuning with Logistic Regression: https://colab.research.google.com/drive/1QOzFcYUrCbvtze7hTevbdwz1Jv5MdCHF#scrollTo=ruRnDqaZNM9l
+- k-means Demo: https://colab.research.google.com/drive/1XZoZwQw3505MnPCwftPnzsJSyETLax4P?usp=sharing
+- Agglomerative Clustering Demo: https://colab.research.google.com/drive/15HLHiLkz0EZ2JFvRyhpTKZGyar00mAsj?usp=sharing
 
 ## Syllabus
 - Introduction and About ML
