@@ -48,6 +48,8 @@ https://mldemystified.com/
 - Hyper-Parameter Tuning with Logistic Regression: https://colab.research.google.com/drive/1QOzFcYUrCbvtze7hTevbdwz1Jv5MdCHF#scrollTo=ruRnDqaZNM9l
 - k-means Demo: https://colab.research.google.com/drive/1XZoZwQw3505MnPCwftPnzsJSyETLax4P?usp=sharing
 - Agglomerative Clustering Demo: https://colab.research.google.com/drive/15HLHiLkz0EZ2JFvRyhpTKZGyar00mAsj?usp=sharing
+- ML Evaluation Demo: https://colab.research.google.com/drive/1aLlcdU0eXY1QY7G916a_6A7a1em9qMD8#scrollTo=9IPmySeJU45L
+- ML Evaluation Demo (with comparison): https://colab.research.google.com/drive/1I49fSPh0Hrrnw6kxLZ_aBJuGXjVubT9K#scrollTo=DQHL6bMQVEIk
 
 ## Syllabus
 - Introduction and About ML
