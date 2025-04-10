@@ -51,6 +51,7 @@ https://mldemystified.com/
 - ML Evaluation Demo: https://colab.research.google.com/drive/1aLlcdU0eXY1QY7G916a_6A7a1em9qMD8#scrollTo=9IPmySeJU45L
 - ML Evaluation Demo (with comparison): https://colab.research.google.com/drive/1I49fSPh0Hrrnw6kxLZ_aBJuGXjVubT9K#scrollTo=DQHL6bMQVEIk
 - Bias Variance Tradeoff: https://colab.research.google.com/drive/1tkxBaQYFCru4MEJ0yki8YtMyTDYcu8i7?usp=sharing
+- Random Forests: https://colab.research.google.com/drive/19iGPPJF9gsPZbT2tNguUnZSgC5sqeSnQ?usp=sharing
 - 
 ## Syllabus
 - Introduction and About ML
