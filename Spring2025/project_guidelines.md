@@ -19,7 +19,7 @@
   - What you attempted
   - What worked and what didn’t
   - What you learned
-- Please try to make your project *stand out*. The projects that get the highest score are the ones that have taken extra effort in their report, code, slides, and the overall project.
+- Please try to make your project **stand out**. The projects that get the highest score are the ones that have taken extra effort in their report, code, slides, and the overall project.
 
 ---
 
