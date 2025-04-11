@@ -27,8 +27,9 @@ I will be placing the annotated course slides on this GitHub repo
 ## Mid-Term Examination
 The Midterm Examination will be on April 1st during Class Hours. 
 
-## Project Presentations
-During the last two weeks of the semester, all the students will be presenting their projects in class. Each student will have 5 minutes to present the project.  More details to come soon.
+## Course Project
+During the last two weeks of the semester, all the students will be presenting their projects in class. Each student will have 5 minutes to present the project.  Please refer to these guidelines for your project: https://github.com/rishabhk108/MLClass/blob/master/Spring2025/project_guidelines.md
+Projects are due on May 12th 2025.
 
 ## Blog Posts for Additional Reading
 https://mldemystified.com/
