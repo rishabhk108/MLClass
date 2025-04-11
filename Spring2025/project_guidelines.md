@@ -12,7 +12,7 @@
 - You are expected to invest significant time and effort.
 - Submit the following:
   - ✅ **Detailed and Comprehensive Report (5–10 pages, No Upper Limit)**
-  - ✅ **Project Slides**
+  - ✅ **Project Slides (~10 slides)**
   - ✅ **Detailed and Commented Code**
   - ✅ **Short Video (< 3 mins)** explaining the project
 - Your report must describe:
