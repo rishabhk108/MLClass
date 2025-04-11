@@ -36,9 +36,10 @@
   - Missing values and imputation strategy
   - Feature variance and standardization
   - Class imbalance analysis
-  - Add TSNE or PCA visualization to visualize features and data to understand aspects like separability and so on. 
+  - Add TSNE or PCA visualization to visualize features and data to understand aspects like separability and so on.
+- [ ] If applicable, please perform comprehensive feature engineering and feature selection to identify the best features for your task. Look into different feature transformations (e.g., polynomial, categorical, count based, and so on).
 - [ ] Apply and compare **multiple ML models**:
-  - Linear models (Logistic/Linear Regression)
+  - Linear models (SVMs/Logistic/Linear Regression)
   - Tree-based models (Decision Trees, Random Forests, XGBoost)
   - Neural Networks (MLPs or CNNs if relevant)
 - [ ] Conduct **extensive hyperparameter tuning**:
