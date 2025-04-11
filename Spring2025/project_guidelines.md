@@ -2,7 +2,7 @@
 
 ## Instructor: Rishabh Iyer  
 **University of Texas at Dallas**  
-**Project Due:** May 12th 2025
+**Project Due: May 12th 2025**
 
 ---
 
