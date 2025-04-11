@@ -35,6 +35,7 @@
   - Missing values and imputation strategy
   - Feature variance and standardization
   - Class imbalance analysis
+  - Add TSNE or PCA visualization to visualize features and data to understand aspects like separability and so on. 
 - [ ] Apply and compare **multiple ML models**:
   - Linear models (Logistic/Linear Regression)
   - Tree-based models (Decision Trees, Random Forests, XGBoost)
