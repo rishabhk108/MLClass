@@ -11,7 +11,7 @@
 - The project accounts for **25% of your final grade**.
 - You are expected to invest significant time and effort.
 - Submit the following:
-  - ✅ **Detailed Report (5–10 pages)**
+  - ✅ **Detailed and Comprehensive Report (5–10 pages)**
   - ✅ **Project Slides**
   - ✅ **Detailed and Commented Code**
   - ✅ **Short Video (< 3 mins)** explaining the project
@@ -19,6 +19,7 @@
   - What you attempted
   - What worked and what didn’t
   - What you learned
+- Please try to make your project *stand out*. The projects that get the highest score are the ones that have taken extra effort in their report, code, slides, and the overall project.
 
 ---
 
