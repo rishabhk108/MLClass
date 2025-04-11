@@ -61,7 +61,7 @@
 
 ### ✅ Checklist
 
-- [ ] Select a **focused topic** (e.g., SVMs, Clustering, Regularization, Kernel Methods)
+- [ ] Select a **focused topic** (e.g., SVMs, Clustering, Regularization, Kernel Methods, Neural Networks)
 - [ ] Perform a **thorough literature review**
 - [ ] Go **beyond class coverage**, e.g.:
   - For SVMs:
