@@ -53,7 +53,9 @@ https://mldemystified.com/
 - ML Evaluation Demo (with comparison): https://colab.research.google.com/drive/1I49fSPh0Hrrnw6kxLZ_aBJuGXjVubT9K#scrollTo=DQHL6bMQVEIk
 - Bias Variance Tradeoff: https://colab.research.google.com/drive/1tkxBaQYFCru4MEJ0yki8YtMyTDYcu8i7?usp=sharing
 - Random Forests: https://colab.research.google.com/drive/19iGPPJF9gsPZbT2tNguUnZSgC5sqeSnQ?usp=sharing
-- 
+- AdaBoost Visualization: https://colab.research.google.com/drive/1Ti24kTa2OrNApPxnHvZizrWGJqIeLJMC#scrollTo=ygKi1sFQ831n
+- Boosting Demos: https://colab.research.google.com/drive/1FF5PXo5rXeCi9pz1Ejkqe7Tr3TsdXAhu?usp=sharing
+- Bagging vs Boosting: https://colab.research.google.com/drive/1rdRPIP_3e2baUraewTUQ2BFR41UNc0Cp#scrollTo=7a85RFyXblXK
 ## Syllabus
 - Introduction and About ML
 - Regression (Linear and Polynomial)
