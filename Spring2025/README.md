@@ -68,11 +68,13 @@ https://mldemystified.com/
 - Naive Bayes
 - Logistic Regression
 - Unsupervised Learning: Clustering
+- Evaluation of ML Algorithms and Practical Aspects
 - Bias and Variance Tradeoff
 - Ensembles, Boosting and Bagging
 - Gaussian Mixture Models
 - Neural Networks
-- Evaluation of ML Algorithms and Practical Aspects
+- Convolutional Neural Networks
+- Optimization Algorithms for Deep Learning
 
 ## Textbooks
 - Pattern Recognition and Machine Learning, Christopher Bishop 2006
