@@ -56,7 +56,7 @@ https://mldemystified.com/
 - AdaBoost Visualization: https://colab.research.google.com/drive/1Ti24kTa2OrNApPxnHvZizrWGJqIeLJMC#scrollTo=ygKi1sFQ831n
 - Boosting Demos: https://colab.research.google.com/drive/1FF5PXo5rXeCi9pz1Ejkqe7Tr3TsdXAhu?usp=sharing
 - Bagging vs Boosting: https://colab.research.google.com/drive/1rdRPIP_3e2baUraewTUQ2BFR41UNc0Cp#scrollTo=7a85RFyXblXK
-- Neural Networks: https://colab.research.google.com/drive/1BOTOKe-Ty0PhL9zRmJXa33Gd_G80AK7u#scrollTo=0yn5mhQiwtif
+- Neural Networks: https://colab.research.google.com/drive/1BOTOKe-Ty0PhL9zRmJXa33Gd_G80AK7u?usp=sharing
 
 ## Syllabus
 - Introduction and About ML
