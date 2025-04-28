@@ -57,7 +57,8 @@ https://mldemystified.com/
 - Boosting Demos: https://colab.research.google.com/drive/1FF5PXo5rXeCi9pz1Ejkqe7Tr3TsdXAhu?usp=sharing
 - Bagging vs Boosting: https://colab.research.google.com/drive/1rdRPIP_3e2baUraewTUQ2BFR41UNc0Cp#scrollTo=7a85RFyXblXK
 - Neural Networks: https://colab.research.google.com/drive/1BOTOKe-Ty0PhL9zRmJXa33Gd_G80AK7u?usp=sharing
-
+- Optimization Algorithms: https://colab.research.google.com/drive/15fpE3LBvUcGtHsYemDs7nANCvG1HYpIT#scrollTo=Iv5D4ia5YEaL
+  
 ## Syllabus
 - Introduction and About ML
 - Regression (Linear and Polynomial)
