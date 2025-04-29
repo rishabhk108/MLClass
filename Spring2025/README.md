@@ -76,6 +76,11 @@ https://mldemystified.com/
 - Neural Networks
 - Convolutional Neural Networks
 - Optimization Algorithms for Deep Learning
+- Additional Advanced Topics:
+-   Active Learning
+-   Semi-Supervised Learning
+-   Representation Learning
+-   Self-Supervised Learning
 
 ## Textbooks
 - Pattern Recognition and Machine Learning, Christopher Bishop 2006
