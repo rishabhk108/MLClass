@@ -26,7 +26,7 @@ Truong Pham
 I will be placing the annotated course slides on this GitHub repo
 
 ## Mid-Term Examination
-The Midterm Examination will be on April 1st during Class Hours. 
+The Midterm Examination will TBA during Class Hours. 
 
 ## Course Project
 More details will be posted soon. 
