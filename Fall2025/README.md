@@ -40,6 +40,7 @@ https://mldemystified.com/
 - Polynomial Regression (Overfitting & Underfitting): https://colab.research.google.com/drive/1ynzXK32eLqpPdh6l7IOqW7ajnCkXKhwH
 - Perceptrons: https://colab.research.google.com/drive/1eNG_bEj_gfq1yzjBaJlRA8D-Bdt-zhjR
 - SVMs: https://colab.research.google.com/drive/1z368aCHvKDy92E0dJXtQnTFgF3O1HOWo
+- Visual Demonstration of the Effect of C in SVMs: https://colab.research.google.com/drive/1m4ieWlk8eROXhqqmtsZ5hPZvUqug4nWw?usp=sharing
 - Interactive SVM Demo: https://jgreitemann.github.io/svm-demo
 - Decision Trees: https://colab.research.google.com/drive/1RKC12-hsxRx7GqogkQjN0ylqFy6ay2As#scrollTo=8c5bbca1
 - Nearest Neighbor: https://colab.research.google.com/drive/1coQx_fGMyiOhli6xjETUaXfy3AX1PqWX#scrollTo=8fb86b64
