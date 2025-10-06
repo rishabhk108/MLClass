@@ -43,6 +43,8 @@ https://mldemystified.com/
 - Visual Demonstration of the Effect of C in SVMs: https://colab.research.google.com/drive/1m4ieWlk8eROXhqqmtsZ5hPZvUqug4nWw?usp=sharing
 - Interactive SVM Demo: https://jgreitemann.github.io/svm-demo
 - Decision Trees: https://colab.research.google.com/drive/1RKC12-hsxRx7GqogkQjN0ylqFy6ay2As#scrollTo=8c5bbca1
+- Decision Trees: Splitting Criteria: https://colab.research.google.com/drive/17temXQpV4JiCJXZcOUDCXpAEwl5xlnQj#scrollTo=KoBQRvhX0_6L
+- Decision Tree Tuning: https://colab.research.google.com/drive/1j21TTonzZ2TtCbyiecQm6rZiHrrClCZT#scrollTo=ys12CUNszm_0
 - Nearest Neighbor: https://colab.research.google.com/drive/1coQx_fGMyiOhli6xjETUaXfy3AX1PqWX#scrollTo=8fb86b64
 - Bayesian Methods and MLE: https://colab.research.google.com/drive/1XyHOV5BwCI_mUukXwsNmquDkfsqruRv9#scrollTo=v0C-u9pR3djd
 - Naive Bayes for Spam Classification: https://colab.research.google.com/drive/1SgWrVeRo_HUNdNR3XQQreOnJHL2rHgBb?usp=sharing
