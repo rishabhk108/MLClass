@@ -1,4 +1,4 @@
-## Welcome to CS 6375 for Fall 2025!
+## Welcome to CS 4375 for Fall 2025!
 
 ## Course Videos
 Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvrnLssdPkp
