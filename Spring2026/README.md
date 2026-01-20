@@ -1,4 +1,4 @@
-## Welcome to CS 4375 for Fall 2025!
+## Welcome to CS 4375 for Spring 2026!
 
 ## Course Videos
 Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvrnLssdPkp
@@ -6,9 +6,9 @@ Video Lectures: https://www.youtube.com/playlist?list=PLGod0_zT9w93y14TbXOVQpmvr
 These are video recordings uploaded to youtube from my previous graduate version of this course. The course content will be very similar so I would strongly encourage all of you to go through the videos both before and after each class.
 
 ## Course Evaluation
-- 3-4 Assignments (30%)
-- Mid Term Examination (30%)
-- Final Project (30%)
+- 3-4 Assignments (25%)
+- Two Mid Term Examinations (40%)
+- Final Project (25%)
 - Class Participation (10%)
 
 ## Class Timings (ECSS 2.412)
@@ -16,8 +16,8 @@ These are video recordings uploaded to youtube from my previous graduate version
 - Thursdays 4 pm - 5:15 pm 
 
 ## Office Hours
-- Mondays 3 pm -  3:45 pm  (my office: ECSS 3.405) 
-- Wednesdays 3 pm - 3:45 pm (by appointment)
+- Tuesdays 3 pm -  3:45 pm  (my office: ECSS 3.405) 
+- Thursdays 3 pm - 3:45 pm (by appointment)
 
 ## Teaching Assistants
 Truong Pham
@@ -26,10 +26,10 @@ Truong Pham
 I will be placing the annotated course slides on this GitHub repo
 
 ## Mid-Term Examination
-The Midterm Examination will TBA during Class Hours. 
+The Midterm Examination will TBA during Class Hours. We will have two midterm examinations - one towards the end of March and the other towards the end of April. I will announce the dates as we approach closer towards the March. 
 
 ## Course Project
-More details will be posted soon. 
+More details will be posted soon. The projects will be due in the first week of May 2026.
 
 ## Blog Posts for Additional Reading
 https://mldemystified.com/
