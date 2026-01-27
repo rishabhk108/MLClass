@@ -99,6 +99,9 @@ https://www.amazon.com/dp/0070428077?
 - Andrew Ng's Lecture Notes: http://cs229.stanford.edu/notes2020spring/cs229-notes1.pdf
 
 ## Additional Reading Material
+- Intro to Calculus: https://www.youtube.com/watch?v=WUvTyaaNkzM, https://www.khanacademy.org/math/multivariable-calculus, https://www.geeksforgeeks.org/machine-learning/multivariable-calculus-for-machine-learning/
+- Linear Algebra: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab, https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/
+- Probability and Statistics: https://www.khanacademy.org/math/statistics-probability, https://www.youtube.com/c/joshstarmer
 - Introduction and Regression: Bishop, Ch. 1 and Sections 1 & 2 of Andrew Ng's Lecture notes
 - Perceptron: Bishop, Ch. 7 for a different perspective, Barber, Ch. 17.5
 - SVMs, Duality: Boyd, Ch 5, https://web.archive.org/web/20210126032916/http://www.engr.mun.ca/~baxter/Publications/LagrangeForSVMs.pdf
