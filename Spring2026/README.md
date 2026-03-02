@@ -34,6 +34,30 @@ More details will be posted soon. The projects will be due in the first week of 
 ## Blog Posts for Additional Reading
 https://mldemystified.com/
 
+## Syllabus
+- Lecture 1: Introduction and About ML
+- Lecture 2: Regression (Linear and Polynomial)
+- Lecture 3: Perceptron
+- lecture 4: Support Vector Machines
+- Lecture 5: Support Vector Machines and Slack
+- Lecture 6: Nearest Neighbor Methods
+- Lecture 7: Decision Trees
+- Lecture 8: Bayesian Methods
+- Lecture 9: Naive Bayes
+- Lecture 10: Logistic Regression
+- Lecture 11: Unsupervised Learning: Clustering
+- Lecture 12: Evaluation of ML Algorithms and Practical Aspects
+- Lecture 13: Bias and Variance Tradeoff
+- Lecture 14: Ensembles, Boosting and Bagging
+- Lecture 15: Neural Networks
+- Lecture 16: Convolutional Neural Networks
+- Lecture 17: Optimization Algorithms for Deep Learning
+- Lecture 18: Methods for Data Efficient Learning:
+  - Active Learning
+  - Semi-Supervised Learning
+  - Representation Learning
+  - Self-Supervised Learning
+
 ## Demos: Google Colab Links and Other Links
 - Linear Regression (Housing Demo): https://colab.research.google.com/drive/1myH2V4xbKXZzdF-49ma_vWHLfArTyO2W
 - Polynomial Regression (Overfitting & Underfitting): https://colab.research.google.com/drive/1ynzXK32eLqpPdh6l7IOqW7ajnCkXKhwH
@@ -62,29 +86,6 @@ https://mldemystified.com/
 - Neural Networks: https://colab.research.google.com/drive/1BOTOKe-Ty0PhL9zRmJXa33Gd_G80AK7u?usp=sharing
 - Optimization Algorithms: https://colab.research.google.com/drive/15fpE3LBvUcGtHsYemDs7nANCvG1HYpIT#scrollTo=Iv5D4ia5YEaL
   
-## Syllabus
-- Introduction and About ML
-- Regression (Linear and Polynomial)
-- Perceptron
-- Support Vector Machines
-- Nearest Neighbor Methods
-- Decision Trees
-- Naive Bayes
-- Logistic Regression
-- Unsupervised Learning: Clustering
-- Evaluation of ML Algorithms and Practical Aspects
-- Bias and Variance Tradeoff
-- Ensembles, Boosting and Bagging
-- Gaussian Mixture Models
-- Neural Networks
-- Convolutional Neural Networks
-- Optimization Algorithms for Deep Learning
-- Additional Advanced Topics:
-  - Active Learning
-  - Semi-Supervised Learning
-  - Representation Learning
-  - Self-Supervised Learning
-
 ## Textbooks
 - Pattern Recognition and Machine Learning, Christopher Bishop 2006
 https://www.amazon.com/dp/0387310738?
