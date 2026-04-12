@@ -11,7 +11,7 @@
 - The project accounts for **25% of your final grade**.
 - You are expected to invest significant time and effort.
 - Submit the following:
-  - ✅ **Detailed and Comprehensive Report (5–10 pages, No Upper Limit)**
+  - ✅ **Detailed and Comprehensive Report (Minimum 10 pages, No Upper Limit)**
   - ✅ **Project Slides (~10 slides)**
   - ✅ **Detailed and Commented Code**
   - ✅ **Short Video (< 3 mins)** explaining the project
