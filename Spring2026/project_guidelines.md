@@ -33,8 +33,9 @@ If you follow the checklist below for the project, you will get 80% of the proje
 
 ### ✅ Checklist
 
-- [ ] Choose a **high-quality dataset** (from sources like Kaggle, UCI, OpenML, etc.)
+- [ ] Choose a **high-quality dataset** (from sources like Kaggle, UCI, OpenML, etc.). Include a section in the report on the dataset and its characteristics.
 - [ ] Perform **Exploratory Data Analysis (EDA)**:
+  - Size of the dataset, number of features/instances, etc.
   - Correlations between features and target
   - Feature distributions and label histograms
   - Missing values and imputation strategy
