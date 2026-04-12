@@ -22,7 +22,7 @@
 - Please try to make your project **stand out**. The projects that get the highest score are the ones that have taken extra effort in their report, code, slides, and the overall project.
 
 ## 📌 Grading Guidelines
-If you follow the checklist below for the project, you will get 80% of the project grades. The rest 20% is reserved for truly outstanding projects that stand out. 
+If you follow the checklist below for the project, you will get 80% of the project grades. The rest 20% is reserved for truly outstanding projects that stand out. Please include the checklist below in your final report (you can add it in the beginning of the report) along with evidence (e.g., page numbers where you have highlighted a specific aspect, e.g., EDA). 
 
 
 ---
