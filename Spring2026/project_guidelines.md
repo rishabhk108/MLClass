@@ -2,7 +2,7 @@
 
 ## Instructor: Rishabh Iyer  
 **University of Texas at Dallas**  
-**Project Due: May 12th 2025**
+**Project Due: May 9th 2026**
 
 ---
 
@@ -20,6 +20,10 @@
   - What worked and what didn’t
   - What you learned
 - Please try to make your project **stand out**. The projects that get the highest score are the ones that have taken extra effort in their report, code, slides, and the overall project.
+
+## 📌 Grading Guidelines
+If you follow the checklist below for the project, you will get 80% of the project grades. The rest 20% is reserved for truly outstanding projects that stand out. 
+
 
 ---
 
