@@ -22,7 +22,7 @@
 ## 📌 Grading Guidelines
 If you follow the checklist below for the project, you will get 80% of the project grades. The rest 20% is reserved for truly outstanding projects that stand out. Please include the checklist below in your final report (you can add it in the beginning of the report) along with evidence (e.g., page numbers where you have highlighted a specific aspect, e.g., EDA). 
 
-
+You need to select one of the three project types for your project - either type 1, type 2, or type 3. 
 ---
 
 ## 🔍 Project Type 1: ML Problem & Solution
