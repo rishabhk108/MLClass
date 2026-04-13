@@ -12,14 +12,12 @@
 - You are expected to invest significant time and effort.
 - Submit the following:
   - ✅ **Detailed and Comprehensive Report (Minimum 10 pages, No Upper Limit)**
-  - ✅ **Project Slides (~10 slides)**
   - ✅ **Detailed and Commented Code**
-  - ✅ **Short Video (< 3 mins)** explaining the project
 - Your report must describe:
   - What you attempted
   - What worked and what didn’t
   - What you learned
-- Please try to make your project **stand out**. The projects that get the highest score are the ones that have taken extra effort in their report, code, slides, and the overall project.
+- Please try to make your project **stand out**. The projects that get the highest score are the ones that have taken extra effort in their report and code.
 
 ## 📌 Grading Guidelines
 If you follow the checklist below for the project, you will get 80% of the project grades. The rest 20% is reserved for truly outstanding projects that stand out. Please include the checklist below in your final report (you can add it in the beginning of the report) along with evidence (e.g., page numbers where you have highlighted a specific aspect, e.g., EDA). 
@@ -125,10 +123,8 @@ If you follow the checklist below for the project, you will get 80% of the proje
 ## 📥 Submission Requirements
 
 1. **project_report.pdf**
-2. **project_slides.pptx/pdf**
-3. **code/** folder (modular and documented)
-4. **project_video.mp4** (max 3 mins)
-
+2. **code/** folder (modular and documented)
+Please submit the report as a pdf and the code as a zip file.
 ---
 
 ## 📬 Questions?
